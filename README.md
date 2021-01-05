@@ -1,5 +1,5 @@
 <kbd>
- <img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" width="40" height="40" alt="doublenc" style="border-radius:15px" />
+ <img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" width="20" height="20" alt="doublenc" style="border-radius:15px" />
 </kbd>
  Currently working on **doubleNC**
 
