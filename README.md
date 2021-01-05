@@ -1,4 +1,4 @@
-<img align="center" src="https://avatars1.githubusercontent.com/u/66709960?s=40&v=4" alt="doublenc" />Currently working on **doubleNC**
+<img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" alt="doublenc" />Currently working on **doubleNC**
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokyuseong&" alt="jokyuseong" /></p>
