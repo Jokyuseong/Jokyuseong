@@ -1,6 +1,8 @@
 <kbd>
- <img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" width="40" height="40" alt="doublenc" style="border-radius:50%" />Currently working on **doubleNC**
+ <img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" width="40" height="40" alt="doublenc" style="border-radius:50%" />
 </kbd>
+ Currently working on **doubleNC**
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokyuseong&" alt="jokyuseong" /></p>
 
