@@ -1,5 +1,6 @@
-<img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" width="25" height="25" alt="doublenc" /> Currently working on **doubleNC**
-
+ <a href="https://www.doublenc.com/" target="_blank">
+ <img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" width="25" height="25" alt="doublenc" /> Currently working on **doubleNC**
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokyuseong&" alt="jokyuseong" /></p>
 
@@ -42,20 +43,8 @@
  <a href="https://expressjs.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
  </a>
- <a href="https://graphql.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
- </a>
- <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- </a>
- <a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
- </a>
  <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </a>
- <a href="https://opencv.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
  </a>
  <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
