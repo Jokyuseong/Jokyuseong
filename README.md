@@ -1,7 +1,3 @@
- <a href="https://www.doublenc.com/" target="_blank">
- <img align="center" src="https://avatars2.githubusercontent.com/u/66709960?s=60&v=4" width="25" height="25" alt="doublenc" /> Currently working on doubleNC
-</a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokyuseong&" alt="jokyuseong" /></p>
 
 
