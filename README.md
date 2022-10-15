@@ -1,6 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokyuseong&" alt="jokyuseong" /></p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
